@@ -1,2 +1,2 @@
 # VortexPowerBluepeint
-Open source blueprint cor a vortex-base energy system for humanity
+Open source blueprint for a vortex-base energy system for humanity
