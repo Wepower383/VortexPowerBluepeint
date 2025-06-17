@@ -1,0 +1,10 @@
+Node 0008: Vortex Power Blueprint
+This system harvests energy using vortex dynamics. It uses a spiral flow chamber, a Venturi nozzle to accelerate flow, magnets, and copper coils to generate electricity.
+
+Key Components:
+- Spiral Vortex Chamber
+- Venturi Funnel
+- Copper-Magnet Turbine
+- Optional Resonance Core (quartz, mycelium)
+
+Designed for wind, water, or plasma input. Can be hybridized with Node 0005 (Symbiogen Coil).
